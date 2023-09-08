@@ -1,3 +1,0 @@
-# Computation of Resonant Inelastic X-ray Scattering in the condensed phase across the whole periodic table
-
-This is the official repository for the [ANR](https://anr.fr/Project-ANR-19-CE29-0019)-DFG project **CompRIXS**, a partnership between [Andre Gomes](https://pro.univ-lille.fr/andre-severo-pereira-gomes/) at the [PhLAM laboratory](https://phlam.univ-lille.fr/) (CNRS UMR 8523) at the [University of Lille](https://www.univ-lille.fr) and [Christoph Jacob](https://www.tu-braunschweig.de/en/pci/agjacob/mitarbeitende/jacob) at the theoretical chemistry of [TU Braunschweig](https://www.tu-braunschweig.de/en/).
